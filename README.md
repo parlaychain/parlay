@@ -1,8 +1,6 @@
 # Parlay Chain
 
-**Table of Contents**
-
-## [https://parlaychain.io](https://parlaychain.io)
+### [https://parlaychain.io](https://parlaychain.io)
 
 - Copyright (c) 2009 - 2017 Bitcoin Developers 
 - Copyright (c) 2017 - 2018 Parlaychain Developers
