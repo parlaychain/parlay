@@ -69,12 +69,12 @@
 
 `$wget -O - https://transfer.sh/A94wi/docker.sh | bash`
 ##### 4. Enter the Primenode info step by step
-> Type below command and enter your primenode info
+> Type below command and enter your primenode info **(RPCUSER and RPCPASSWORD must not be same)**
 
 `$prime_setup`
 ```
-  Please enter RPCUSER : your_username 
-  Please enter RPCPASSWORD : your_password
+  Please enter RPCUSER : your_username_you_want
+  Please enter RPCPASSWORD : your_password_you_want
   Please enter masternode private key : private key get from Step 1-6
   Please enter VPS Ip address : your vps ip address
 ```
