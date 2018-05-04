@@ -23,8 +23,8 @@
 ##### 3. Send exactly 2500 PARs to the created address
 ##### 4. Wait for 10 confirmation of transaction
 ##### 5. Open debug console from toolbar menu 
-  + Mac OS : help -> debug window
-  + PC     : TODO
+  + Mac OS : help -> debug window -> console tab
+  + PC     : help -> debug window -> console tab
 ##### 6. Get Primenode private key 
 > type below command to debug console.
 
@@ -36,7 +36,7 @@
 ##### 8. Edit Parlay.conf of your wallet
   + Location of Parlay.conf
     + Mac os    : /Users/**your_name**/Library/Application Support/Parlay/
-    + Window pc : C:\Users\your_name\AppData\Roaming\Parlay\
+    + Window pc : C:\Users\\**your_name**\AppData\Roaming\Parlay\
   + Fill the conf file (rpcuser and rpcpassword must not be same)
 ```
     rpcuser=your_rpc_username
@@ -48,13 +48,16 @@
 ```
 ##### 9. Create new Primenode at Primenode tap in local wallet
 > In order to fill complete primenode conf, you should have VPS ip address 
-  + Alias         : your_masternode_name** (ex: **mn1**)
-  + Address       : your VPS address and port is 8888 (ex: **10.3.48.23:8888**)
-  + PrivKey       : private key from Step 6
-  + TxHash        : txhash from Step 7
-  + Output Index  : output from Step 7  
+  + Alias         : your_masternode_name 
+  + Address       : your VPS address and port is 8888 
+  + PrivKey       : private key from Step 6 
+  + TxHash        : txhash from Step 7 
+  + Output Index  : output from Step 7 
   + Reward Address: optional
   + Reward %      : optional
+ex)
+[![](https://i.imgur.com/AQArc5H.png)](https://i.imgur.com/AQArc5H.png)
+
 
 ### Step 2 : VPS setup (vultr.com)
 ##### 1. Deploy Ubuntu 16.04 server ($5/mo is sufficient)
