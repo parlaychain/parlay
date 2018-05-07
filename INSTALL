@@ -1,0 +1,9 @@
+Building Parlay
+
+See doc/readme-qt.rst for instructions on building Parlay QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Parlay.
+
+See doc/build-*.txt for instructions on building Parlayd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Parlay.
