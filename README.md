@@ -1,6 +1,6 @@
 # Parlay
 
-=======
+
 ### [https://parlaychain.io](https://parlaychain.io)
 
 - Copyright (c) 2009 - 2017 Bitcoin Developers 
