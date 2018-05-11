@@ -11,6 +11,11 @@
 - Parlay Chain (PAR) is a prize winning blockchain ecosystem with predictor gameplay (Parlay.Live).
 - Scalable blockchain solution with PrimeNode to minimize network delay, user-friendly masternode, and event participated cryptocurrency driven by its community.
 
+# Local GUI wallet
+
+### [Mac osx high sierra](https://github.com/parlaychain/parlay/releases/download/v1.0.0/Parlay-1.0.0-osx_high_sierra.dmg)
+### [Window os](https://github.com/parlaychain/parlay/releases/download/v1.0.0/Parlay-1.0.0-window.exe)
+
 # PrimeNode guide
 
 #### Requirements
