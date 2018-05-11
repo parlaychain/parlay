@@ -20,7 +20,7 @@
 
 #### Requirements
   + 2500 PARs
-  + Ubuntu 16.04 VPS server
+  + Ubuntu 16.04 VPS server (recommended VPS : vultr.com)
   + Local wallet 
   
 ### Step 1 : Local wallet setup
