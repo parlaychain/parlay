@@ -13,8 +13,8 @@
 
 # Local GUI wallet
 
-### [Mac osx high sierra](https://github.com/parlaychain/parlay/releases/download/v1.0.0/Parlay-1.0.0-osx_high_sierra.dmg)
-### [Window os](https://github.com/parlaychain/parlay/releases/download/v1.0.0/Parlay-1.0.0-window.exe)
+- MAC wallet    - [Mac osx high sierra](https://github.com/parlaychain/parlay/releases/download/v1.0.0/Parlay-1.0.0-osx_high_sierra.dmg)
+- Window wallet - [Window os](https://github.com/parlaychain/parlay/releases/download/v1.0.0/Parlay-1.0.0-window.exe)
 
 # PrimeNode guide
 
