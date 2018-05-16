@@ -24,7 +24,7 @@
   + Local wallet 
   
 ### Step 1 : Local wallet setup
-##### 1. Download & Run local wallet ([Window](https://window.wallet), [Mac](https://mac.wallet))
+##### 1. Download & Run local wallet ([Window](https://github.com/parlaychain/parlay/releases/download/v1.0.0/Parlay-1.0.0-window.exe), [Mac](https://github.com/parlaychain/parlay/releases/download/v1.0.0/Parlay-1.0.0-osx_high_sierra.dmg))
 ##### 2. Create new address at Receive tab
 ##### 3. Send exactly 2500 PARs to the created address
 ##### 4. Wait for 10 confirmation of transaction
