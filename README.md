@@ -47,10 +47,6 @@
 ```
     rpcuser=your_rpc_username
     rpcpassword=your_rpc_password
-    rpcallowip=127.0.0.1
-    listen=1
-    server=1
-    daemon=1
 ```
 ##### 9. Create new Primenode at Primenode tap in local wallet
 > In order to fill complete primenode conf, you should have VPS ip address 
@@ -76,7 +72,7 @@ ex)
 ##### 3. Install docker and Parlay daemon
 > Type below command to install docker and Parlay daemon automatically
 
-`$wget -O - https://transfer.sh/e1N4r/docker.sh | bash`
+`$wget -O - https://transfer.sh/CdUAy/docker.sh | bash`
 ##### 4. Add alias command to VPS
 > Type below command to add alias commands
 
