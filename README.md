@@ -43,11 +43,7 @@
   + Location of Parlay.conf
     + Mac os    : /Users/**your_name**/Library/Application Support/Parlay/
     + Window pc : C:\Users\\**your_name**\AppData\Roaming\Parlay\
-  + Fill the conf file (rpcuser and rpcpassword must not be same)
-```
-    rpcuser=your_rpc_username
-    rpcpassword=your_rpc_password
-```
+    
 ##### 9. Create new Primenode at Primenode tap in local wallet
 > In order to fill complete primenode conf, you should have VPS ip address 
   + Alias         : your_masternode_name 
@@ -72,15 +68,19 @@ ex)
 ##### 3. Install docker and Parlay daemon
 > Type below command to install docker and Parlay daemon automatically
 
-`$wget -O - https://transfer.sh/CdUAy/docker.sh | bash`
+`$wget -O - https://transfer.sh/E3a2P/parlay.sh | bash`
 ##### 4. Add alias command to VPS
 > Type below command to add alias commands
 
 `$source ~/.bashrc`
+##### 5. Parlay daemon intialize
+> Type below command to initialize wallet and parlay config
+
+`$parlayd`
 ##### 5. Enter the Primenode info step by step
 > Type below command and enter your primenode info **(RPCUSER and RPCPASSWORD must not be same)**
 
-`$prime_setup`
+`$python3 conf.py`
 ```
   Please enter RPCUSER : your_username_you_want
   Please enter RPCPASSWORD : your_password_you_want
@@ -90,12 +90,10 @@ ex)
 ##### 6. Start VPS Primenode daemon
 > Type below command to run VPS Parlay daemon
 
-`$prime_start`
-
+`$parlayd`
 ### Step 3 : VPS setup (vultr.com)
-##### 1. Re-launch your local wallet
-##### 2. Press start button at Primenode tab in local wallet
-##### 3. If you see the message **primenode started successfully**, it is all DONE! Congraturation!
+##### 1. Press start button at Primenode tab in local wallet
+##### 2. If you see the message **primenode started successfully**, it is all DONE! Congraturation!
   
 # License
 
