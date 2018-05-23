@@ -54,7 +54,7 @@
   + Reward Address: optional
   + Reward %      : optional
 ex)
-[![](https://i.imgur.com/yoLgfYc.png)](https://i.imgur.com/yoLgfYc.png)
+[![](https://i.imgur.com/maA8Vnx.png)](https://i.imgur.com/maA8Vnx.png)
 
 
 ### Step 2 : VPS setup (vultr.com)
