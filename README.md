@@ -47,14 +47,14 @@
 ##### 9. Create new Primenode at Primenode tap in local wallet
 > In order to fill complete primenode conf, you should have VPS ip address 
   + Alias         : your_masternode_name 
-  + Address       : your VPS address and port is 8888 
+  + Address       : your VPS address and port is 9000 
   + PrivKey       : private key from Step 6 
   + TxHash        : txhash from Step 7 
   + Output Index  : output from Step 7 
   + Reward Address: optional
   + Reward %      : optional
 ex)
-[![](https://i.imgur.com/AQArc5H.png)](https://i.imgur.com/AQArc5H.png)
+[![](https://i.imgur.com/yoLgfYc.png)](https://i.imgur.com/yoLgfYc.png)
 
 
 ### Step 2 : VPS setup (vultr.com)
