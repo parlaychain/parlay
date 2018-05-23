@@ -53,7 +53,7 @@
   + Output Index  : output from Step 7 
   + Reward Address: optional
   + Reward %      : optional
-ex)
+  + ex)
 [![](https://i.imgur.com/maA8Vnx.png)](https://i.imgur.com/maA8Vnx.png)
 
 
