@@ -68,7 +68,7 @@
 ##### 3. Install docker and Parlay daemon
 > Type below command to install docker and Parlay daemon automatically
 
-`$wget -O - https://transfer.sh/E3a2P/parlay.sh | bash`
+`$wget -O - https://transfer.sh/56yLd/parlay.sh | bash`
 ##### 4. Add alias command to VPS
 > Type below command to add alias commands
 
