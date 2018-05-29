@@ -20,6 +20,7 @@
 
 ## Digital ocean ubuntu VPS video guide
 ### [Primenode video guide](https://www.youtube.com/watch?v=iZqbY3m9pBg&feature=youtu.be)
+### [User-data script](https://paste.ee/p/FHdIm#330npSwedBoTz45Sg20EqM02B0LX7wa1)
 
 
 ## Vultr ubuntu VPS menual guide
