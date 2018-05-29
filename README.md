@@ -87,7 +87,7 @@
 ##### 6. Start VPS Primenode daemon
 > Type below command to run VPS Parlay daemon
 
-`$parlayd`
+`parlayd`
 ### Step 3 : VPS setup (vultr.com)
 ##### 1. Press start button at Primenode tab in local wallet
 ##### 2. If you see the message **primenode started successfully**, it is all DONE! Congraturation!
