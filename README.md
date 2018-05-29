@@ -18,8 +18,11 @@
 
 # PrimeNode guide
 
-[Primenode video guide](https://www.youtube.com/watch?v=iZqbY3m9pBg&feature=youtu.be)
+## Digital ocean ubuntu VPS video guide
+### [Primenode video guide](https://www.youtube.com/watch?v=iZqbY3m9pBg&feature=youtu.be)
 
+
+## Vultr ubuntu VPS menual guide
 #### Requirements
   + 2500 PARs
   + Ubuntu 16.04 VPS server (recommended VPS : vultr.com)
