@@ -29,8 +29,8 @@
 ##### 3. Send exactly 2500 PARs to the created address
 ##### 4. Wait for 10 confirmation of transaction
 ##### 5. Open debug console from toolbar menu 
-  + Mac OS : help -> debug window -> console tab
-  + PC     : parlay wallet toolbar menu -> debug console
+  + Mac OS : mac toolbar menu -> help -> debug window -> console tab
+  + PC     : parlay wallet toolbar menu -> help -> debug console
 ##### 6. Get Primenode private key 
 > type below command to debug console.
 
