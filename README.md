@@ -18,6 +18,8 @@
 
 # PrimeNode guide
 
+[Primenode video guide](https://www.youtube.com/watch?v=iZqbY3m9pBg&feature=youtu.be)
+
 #### Requirements
   + 2500 PARs
   + Ubuntu 16.04 VPS server (recommended VPS : vultr.com)
