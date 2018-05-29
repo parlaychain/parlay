@@ -30,7 +30,7 @@
 ##### 4. Wait for 10 confirmation of transaction
 ##### 5. Open debug console from toolbar menu 
   + Mac OS : help -> debug window -> console tab
-  + PC     : help -> debug window -> console tab
+  + PC     : parlay wallet toolbar menu -> debug console
 ##### 6. Get Primenode private key 
 > type below command to debug console.
 
@@ -39,18 +39,14 @@
 > type below command to debug console.
 
 `primenode outputs`
-##### 8. Edit Parlay.conf of your wallet
-  + Location of Parlay.conf
-    + Mac os    : /Users/**your_name**/Library/Application Support/Parlay/
-    + Window pc : C:\Users\\**your_name**\AppData\Roaming\Parlay\
-    
-##### 9. Create new Primenode at Primenode tap in local wallet
+> primenode output structure -> { "txhash of 2500 PARs transaction" : "output index" }
+##### 8. Create new Primenode at Primenode tap in local wallet
 > In order to fill complete primenode conf, you should have VPS ip address 
   + Alias         : your_masternode_name 
   + Address       : your VPS address and port is 9000 
   + PrivKey       : private key from Step 6 
-  + TxHash        : txhash from Step 7 
-  + Output Index  : output from Step 7 
+  + TxHash        : txhash of 2500 PARs from Step 7 
+  + Output Index  : output index from Step 7 
   + Reward Address: optional
   + Reward %      : optional
   + ex)
@@ -68,19 +64,20 @@
 ##### 3. Install docker and Parlay daemon
 > Type below command to install docker and Parlay daemon automatically
 
-`$wget -O - https://transfer.sh/56yLd/parlay.sh | bash`
+`wget -O - https://transfer.sh/56yLd/parlay.sh | bash`
+> This command installs lots of modules, take like 20~30 mins
 ##### 4. Add alias command to VPS
 > Type below command to add alias commands
 
-`$source ~/.bashrc`
+`source ~/.bashrc`
 ##### 5. Parlay daemon intialize
 > Type below command to initialize wallet and parlay config
 
-`$parlayd`
+`parlayd`
 ##### 5. Enter the Primenode info step by step
 > Type below command and enter your primenode info **(RPCUSER and RPCPASSWORD must not be same)**
 
-`$python3 conf.py`
+`python3 conf.py`
 ```
   Please enter RPCUSER : your_username_you_want
   Please enter RPCPASSWORD : your_password_you_want
@@ -94,6 +91,7 @@
 ### Step 3 : VPS setup (vultr.com)
 ##### 1. Press start button at Primenode tab in local wallet
 ##### 2. If you see the message **primenode started successfully**, it is all DONE! Congraturation!
+##### 3. Press update button to check primenode is running
   
 # License
 
