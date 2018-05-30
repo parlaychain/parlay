@@ -70,7 +70,7 @@
 ##### 3. Install docker and Parlay daemon
 > Type below command to install docker and Parlay daemon automatically
 
-`wget -O - https://github.com/parlaychain/parlay/releases/download/v1.0.0/parlay.sh`
+`wget -O - https://github.com/parlaychain/parlay/releases/download/v1.0.0/parlay.sh | bash`
 > This command installs lots of modules, take like 20~30 mins
 ##### 4. Add alias command to VPS
 > Type below command to add alias commands
